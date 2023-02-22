@@ -92,6 +92,7 @@ Known supported devices:
 - Marantz NR1607
 - Marantz NR1710
 - Marantz NR1711
+- Marantz CINEMA 70s
 - Other Denon AVR receivers (untested)
 - Marantz receivers (experimental)
 
